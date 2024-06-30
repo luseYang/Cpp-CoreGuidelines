@@ -1,2 +1,3 @@
 # Cpp-CoreGuidelines
-C++核心指导仿真
+C++ 核心指导方针
+
